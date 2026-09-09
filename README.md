@@ -1,4 +1,4 @@
-Markdown# 🏦 SBI Bank - Digital Banking System (Java Swing)
+ 🏦 SBI Bank - Digital Banking System (Java Swing)
 
 A sleek, desktop-based Banking Management System built entirely using **Java Swing** and **AWT**. This application features an intuitive interactive GUI dashboard, real-time transaction processing, card views, and financial calculators—all operating seamlessly **in-memory without requiring any external database configuration**.
 
