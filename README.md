@@ -38,7 +38,7 @@ Compile the Java Code Open your terminal/command prompt in the project folder an
 javac Bankpage.java
 Run the ApplicationBashjava Bankpage
 
-For Login Username:Pawan
+For Login in BankPage Username:Pawan
 Password:1234
 
 💻 Navigation & System DemoTabFunctionalityDashboardView available balance, account information, and safety guidelines.DepositAdd funds to your account instantly with dynamic balance updating.WithdrawWithdraw funds with automated balance checking to prevent overdrafts.HistoryView full logs of all past and newly performed transactions in real-time.
